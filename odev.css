@@ -1,0 +1,79 @@
+
+.header{
+    width: 400px;
+    height: 113px;
+    text-align: center;
+    margin: auto;
+  
+}
+
+
+.article{
+    width: 1200px;
+    height: 66px;
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 70px;
+    background-color: #eeee;
+   
+} 
+
+.article p{
+    margin-top: 5px;
+    margin-bottom: 1px;
+}
+
+
+.nav{
+    width: 1200px;
+    height: 76px;
+    display: flex;
+    margin-top: 2px;
+    margin-left: 80px;
+    
+}
+
+.ilk{
+    width: 455px;
+    text-align: center;
+    background-color: #7ee5da;
+    margin-right: 1px;
+    
+    font-size:16px;
+    
+}
+
+.orta{
+    width: 250px;
+    text-align: center;
+    background-color: #70ccc2;
+    margin-right: 1px;
+    font-size: 13px;
+    
+}
+
+.orta p{
+    margin-top: 5px;
+    margin-bottom: 1px;
+}
+
+.son{
+    width: 515px;
+    text-align: center;
+    background-color: #62B3AA;
+    font-size:13px; 
+    
+}
+
+.son p{
+    margin-top: 2px;
+    margin-bottom: 1px;
+}
+
+.footer{
+    padding-top: 8px;
+    text-align: center;
+    font-size: 13px;
+
+}
+
